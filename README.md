@@ -1,7 +1,8 @@
 # React Weather App
 
 
- <img src="https://gyazo.com/0d00186f9f1116156383632d02df817f" width="350" title="hover text">
+ 
+ <a href="https://gyazo.com/0d00186f9f1116156383632d02df817f"><img src="https://i.gyazo.com/0d00186f9f1116156383632d02df817f.png" alt="Image from Gyazo" width="1075"/></a>
 
 In this exercise, you will use state with an API to make a weather app!
 
