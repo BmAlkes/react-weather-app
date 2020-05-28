@@ -1,0 +1,22 @@
+.Day {
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    margin: 5px;
+    text-align: center;
+  }
+  
+  .Day span {
+    color: rgb(57, 220, 231);
+    font-size: 24px;
+    padding: 5px;
+  }
+  .Day h3{
+      color:white;
+      font-size: 32px;
+  }
+  
+  .Day p{
+      color: white;
+      font-size: 18px;
+  }

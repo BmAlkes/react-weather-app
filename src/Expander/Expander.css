@@ -1,0 +1,17 @@
+button{
+    font-size: 24px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 25px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    align-self: flex-start;
+   
+
+}
+
+.Weather{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
