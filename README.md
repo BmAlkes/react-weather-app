@@ -1,7 +1,7 @@
 # React Weather App
 
+![Alt text](relative/path/to/https://gyazo.com/0d00186f9f1116156383632d02df817f?raw=true "Title")
 
-https://gyazo.com/0d00186f9f1116156383632d02df817f
 
 In this exercise, you will use state with an API to make a weather app!
 
