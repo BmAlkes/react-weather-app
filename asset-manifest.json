@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BmAlkes/react-weather-app/static/css/main.425f534c.chunk.css",
+    "main.js": "/BmAlkes/react-weather-app/static/js/main.82e7a615.chunk.js",
+    "main.js.map": "/BmAlkes/react-weather-app/static/js/main.82e7a615.chunk.js.map",
+    "runtime-main.js": "/BmAlkes/react-weather-app/static/js/runtime-main.0a0a3740.js",
+    "runtime-main.js.map": "/BmAlkes/react-weather-app/static/js/runtime-main.0a0a3740.js.map",
+    "static/js/2.f6d751da.chunk.js": "/BmAlkes/react-weather-app/static/js/2.f6d751da.chunk.js",
+    "static/js/2.f6d751da.chunk.js.map": "/BmAlkes/react-weather-app/static/js/2.f6d751da.chunk.js.map",
+    "index.html": "/BmAlkes/react-weather-app/index.html",
+    "precache-manifest.04c8985e865669e737f656b14261a50b.js": "/BmAlkes/react-weather-app/precache-manifest.04c8985e865669e737f656b14261a50b.js",
+    "service-worker.js": "/BmAlkes/react-weather-app/service-worker.js",
+    "static/css/main.425f534c.chunk.css.map": "/BmAlkes/react-weather-app/static/css/main.425f534c.chunk.css.map",
+    "static/media/1.png": "/BmAlkes/react-weather-app/static/media/1.448a5262.png",
+    "static/media/14.png": "/BmAlkes/react-weather-app/static/media/14.56ad48ec.png",
+    "static/media/18.png": "/BmAlkes/react-weather-app/static/media/18.2477303a.png",
+    "static/media/6.png": "/BmAlkes/react-weather-app/static/media/6.39ec4739.png",
+    "static/media/7.png": "/BmAlkes/react-weather-app/static/media/7.5cb0a006.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a0a3740.js",
+    "static/js/2.f6d751da.chunk.js",
+    "static/css/main.425f534c.chunk.css",
+    "static/js/main.82e7a615.chunk.js"
+  ]
+}
